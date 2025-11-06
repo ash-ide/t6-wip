@@ -45,9 +45,10 @@ After testing several prototypes for the mechanism to deploy the napkin, we've d
 
 Both the spool and the part that connect the spool to the motor have been deisgned in in [FreeCAD](https://www.freecad.org/) and 3D printed using a Bambu Lab X1 Carbon.
 
-<img width="400" alt="GitHub_Doc_Blueprint_Assembly" src="https://github.com/user-attachments/assets/7b643cdc-6fe3-48ea-9bc8-ae4141dea5c2" />
-<img width="350" height="799" alt="GitHub_Doc_Blueprint_Spool" src="https://github.com/user-attachments/assets/edf80ff3-3f49-447d-a82f-2f81fada19e4" />
-<img width="400" height="635" alt="GitHub_Doc_Blueprint_Connecting Piece" src="https://github.com/user-attachments/assets/09c44164-c663-4c14-84ff-8fb5f495c617"/>
+
+<img width="1666" height="799" alt="508939111-edf80ff3-3f49-447d-a82f-2f81fada19e4" src="https://github.com/user-attachments/assets/8951b3ad-b6de-427b-b412-90dddc160b89" />
+<img width="1488" height="635" alt="508939214-09c44164-c663-4c14-84ff-8fb5f495c617" src="https://github.com/user-attachments/assets/c6d40d2f-6d29-4aed-9fff-68b0008d8be7" />
+<img width="1347" height="1021" alt="508939030-7b643cdc-6fe3-48ea-9bc8-ae4141dea5c2" src="https://github.com/user-attachments/assets/0f7353db-e487-4273-a06a-5253bf3dde38" />
 
 
 # Software Design
