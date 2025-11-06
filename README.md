@@ -238,21 +238,23 @@ Lining: Smooth Fabric - we used lightweight thin vinyl with fabric backing
 
 Note: Seam Allowance around all edges unless otherwise noted = 1/2 inch or 1.27 cm
 
-<img width="2381" height="871" alt="Fabric pattern" src="https://github.com/user-attachments/assets/9e89e0e6-2aef-441f-b6f7-4502fbb69ae8" />
 
+<img width="2381" height="871" alt="1im" src="https://github.com/user-attachments/assets/a5cd6600-2013-45d1-bb27-1beeff83b88e" />
 
 ## Instructions
-![Wearable PatternV2-02](https://github.com/user-attachments/assets/028b3d41-f2e5-445e-af37-61465f7d021c)
+
+![2im](https://github.com/user-attachments/assets/5ca24cc3-2662-43c6-8151-69fbef654189)
 
 ## Process on Material Selection
-![Wearable Pattern-02](https://github.com/user-attachments/assets/a29a76e9-cb31-4bae-b67b-c4422aa97e35)
-![Wearable Pattern-03](https://github.com/user-attachments/assets/0daa23a4-2703-4b24-8f99-16098e83716c)
+![2im](https://github.com/user-attachments/assets/4d3bc0de-d945-4986-9d72-a797c1cd43e0)
+![im4](https://github.com/user-attachments/assets/4a8c6987-59c3-4043-bea0-696883a06302)
+![im3](https://github.com/user-attachments/assets/dc3741de-817f-44bb-9b0b-84db0b504541)
 
 ## Finalized Wearable
-![IMG_2290](https://github.com/user-attachments/assets/d3c28955-7ed4-4c62-8a85-f5ec09a6d769)
-![IMG_2292](https://github.com/user-attachments/assets/b8b75a44-cd33-48a9-9846-1e6d77bcd309)
-![IMG_2298](https://github.com/user-attachments/assets/4dcdce7c-a88a-4efc-a8e1-1ef2fcebd73d)
 
+![im6](https://github.com/user-attachments/assets/bf4b8357-6f0e-463f-941b-ef59cb582304)
+![im5](https://github.com/user-attachments/assets/f9048cf1-9db9-4ab3-ae83-bdbd1ef8bccb)
+![im8](https://github.com/user-attachments/assets/88e014f9-773b-4638-a37d-60136772b532)
 
 # Machine Learning
 The algorithm that detects the presence of a door handle has been trained with a combination of OpenCV and Yolo libraries in Python. We used an external data set trained to detect door and their components, which includes handles. We used this model on our own handles, and used the output this model produced to train a linear regression model in Wekinator.
